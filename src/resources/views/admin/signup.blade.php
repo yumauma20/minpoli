@@ -18,6 +18,6 @@
             </label>
             <button type="submit">登録する</button>
         </form>
-        <a href="/poli_login">ログインする</a>
+        <a href="/admin/login">ログインする</a>
     </body>
 </html>

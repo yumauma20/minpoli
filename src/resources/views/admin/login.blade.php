@@ -12,6 +12,6 @@
             </label>
             <button type="submit">ログイン</button>
         </form>
-        <a href="/poli_signup">新規登録する</a>
+        <a href="/admin/signup">新規登録する</a>
     </body>
 </html>
