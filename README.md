@@ -19,5 +19,5 @@ localhost:8888 ... phpMyAdmin
 - nginx 1.17 
 - PHP 7.4.6
 - MySQL 8.0.18
-- Laravel 6.5.2
+- Laravel 6.18.19
 - npm 6.14.5
