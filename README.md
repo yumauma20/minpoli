@@ -1,7 +1,7 @@
 # つかいかた
 
 ```bash
-git clone https://github.com/MasanaIto/minpoli.git
+git clone https://github.com/MasanaIto/politicandirectory.git
 docker-compose build
 docker-compose up -d
 docker-compose exec php-fpm composer create-project --prefer-dist "laravel/laravel=6.5.2 .
